@@ -1,0 +1,19 @@
+{
+  "private": true,
+  "name": "scaling-palm-tree",
+  "version": "0.1.0",
+  "description": "A data set for the Cliqz ad blocker benchmarks",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjethani/scaling-palm-tree.git"
+  },
+  "keywords": [
+    "data-set",
+    "ad-blocking"
+  ],
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/mjethani/scaling-palm-tree/issues"
+  },
+  "homepage": "https://github.com/mjethani/scaling-palm-tree#readme"
+}
